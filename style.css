@@ -1,0 +1,24 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30pt;
+    
+}
+
+.txt_st
+{
+    color: rgb(55, 80, 144); 
+    font-size: 12pt;
+    font-weight: bold; 
+}
+
+h1
+{
+
+font-size: 24px;
+margin-left: 15%
+}
+i{
+    color: blue;
+}
